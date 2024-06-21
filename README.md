@@ -1,24 +1,3 @@
-# big-screen-less
+# 参考资料
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- ✅ [一次搞懂数据大屏适配方案 (vw vh、rem、scale)](https://juejin.cn/post/7163932925955112996?searchId=2024062020112936D7ED4A868B75186888)
